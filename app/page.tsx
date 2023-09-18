@@ -101,7 +101,7 @@ const features = [
   {
     title: "Comprehensive Coverage",
     description:
-      "Extensive [underwriting criteria](https:twitter.com/indemnifi) ensures that all attack vectors are researched and fairly rated.",
+      "Extensive [underwriting criteria](https://bitcoindocs.vercel.app/policy) ensures that all attack vectors are researched and fairly rated.",
     demo: (
       <div className="flex items-center justify-center space-x-20">
         <Image alt="Auth.js logo" src="/shield1.jpg" width={150} height={150} />
@@ -111,7 +111,7 @@ const features = [
   {
     title: "Market Hedge",
     description:
-      "Whether its a bull or bear market, you earn [underwriting profits](https://twitter.com/indemnifi) on your insurance policy.",
+      "Whether its a bull or bear market, you earn [underwriting profits](https://bitcoindocs.vercel.app) on your insurance policy.",
     demo: (
       <div className="flex items-center justify-center space-x-20">
         <Image alt="Auth.js logo" src="/logo.jpg" width={150} height={150} />
@@ -132,7 +132,7 @@ const features = [
   {
     title: "Capital Fund Management",
     description:
-      "Management of the capital fund will align with your Captive Ownership interests.",
+      "[Management](https://bitcoindocs.vercel.app) of the capital fund will align with your Captive Ownership interests.",
     demo: (
       <div className="flex items-center justify-center space-x-20">
         <Image alt="Auth.js logo" src="/46.jpg" width={150} height={150} />
@@ -143,7 +143,7 @@ const features = [
   {
     title: "About Us",
     description:
-      "From miners to insurance, we work within Bitcoin and its economy.",
+      "From miners to insurance, [we](https://bitcoindocs.vercel.app/about/) work within Bitcoin and its economy.",
     demo: (
       <div className="flex items-center justify-center space-x-20">
         <Image alt="Auth.js logo" src="/56.jpg" width={150} height={150} />
