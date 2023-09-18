@@ -30,7 +30,7 @@ export default function WebVitals() {
         />
       </motion.svg>
       <CountingNumbers
-        value={100}
+        value={1}
         duration={2500}
         className="absolute inset-0 mx-auto flex items-center justify-center font-display text-5xl text-green-500"
       />
