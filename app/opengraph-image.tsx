@@ -42,7 +42,7 @@ export default async function OG() {
             letterSpacing: "-0.02em",
           }}
         >
-          Precedent
+          Uberrimae Fidei
         </h1>
       </div>
     ),
