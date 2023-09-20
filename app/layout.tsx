@@ -1,4 +1,4 @@
-import "./globals.css";
+imaimport "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import cx from "classnames";
 import { sfPro, inter } from "./fonts";
@@ -9,15 +9,15 @@ import { Suspense } from "react";
 export const metadata = {
   title: "Uberrimae Fidei",
   description:
-    "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
+    "Uberrimae Fidei - Bitcoin Insurance and Risk",
   twitter: {
     card: "summary_large_image",
-    title: "Precedent - Building blocks for your Next.js project",
+    title: "Uberrimae Fidei - Bitcoin Insurance and Risk",
     description:
-      "Precedent is the all-in-one solution for your Next.js project. It includes a design system, authentication, analytics, and more.",
-    creator: "@steventey",
+      "Uberrimae Fidei is the how you analyze your Bitcoin risk and preserve your wealth.",
+    creator: "@inDemniFi",
   },
-  metadataBase: new URL("https://precedent.dev"),
+  metadataBase: new URL("https://InsuringBitcoin.vercel.app"),
   themeColor: "#FFF",
 };
 
