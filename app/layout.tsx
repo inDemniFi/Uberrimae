@@ -14,7 +14,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Uberrimae Fidei - Bitcoin Insurance and Risk",
     description:
-      "Uberrimae Fidei is the how you analyze your Bitcoin risk and preserve your wealth.",
+      "Uberrimae Fidei how you analyze your Bitcoin risk and preserve your wealth.",
     creator: "@inDemniFi",
   },
   metadataBase: new URL("https://InsuringBitcoin.vercel.app"),
