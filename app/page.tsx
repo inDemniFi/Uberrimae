@@ -132,7 +132,7 @@ const features = [
   {
     title: "Capital Fund Management",
     description:
-      "[Management](https://bitcoindocs.vercel.app) of the capital fund will align with your Captive Ownership interests.",
+      "[Management](https://bitcoindocs.vercel.app/capital) of the capital fund will align with your Captive Ownership interests.",
     demo: (
       <div className="flex items-center justify-center space-x-20">
         <Image alt="Auth.js logo" src="/46.jpg" width={150} height={150} />
