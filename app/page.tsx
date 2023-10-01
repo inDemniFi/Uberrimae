@@ -59,7 +59,7 @@ export default async function Home() {
 
           <a
             className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-300 bg-white px-5 py-2 text-sm text-gray-600 shadow-md transition-colors hover:border-gray-800"
-            href="https://github.com/inDemniFi/Uberrimae"
+            href="https://github.com/inDemniFi/inDemniFi"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -119,9 +119,9 @@ const features = [
     ),
   },
   {
-    title: "Wallet Risk Analysis",
+    title: "Bitcoin Risk Analysis",
     description:
-      "[Connect](walletconnect) your wallet and check out the risk dashboard available with your policy.",
+      "[Checkout](https://BitcoinRisk.vercel.app) the AI-infused risk dashboard that will be avbailable to wallet holders.",
     demo: (
       <div className="flex items-center justify-center space-x-20">
         <Image alt="Auth.js logo" src="/70.jpg" width={150} height={150} />
